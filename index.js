@@ -13,13 +13,13 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'RIZKI RIDHO BOT☄'; 
+const BotName = 'RIZKI BOT☄'; 
 const instagram = 'https://instagram.com/rizki_ridho636'; 
-const telegram = 'https://t.me/Rizki6367'; 
+const telegram = 'https://t.me/Rizki636'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/26RizkiRidhoPratama';
-//const grupch1 = 'belum ada grup'; 
-//const grupch2 = 'belum ada grup' ; 
+const youtube = 'https://www.youtube.com/c/RizkiRidhoPratamaYT';
+//const grupch1 = 'https://chat.whatsapp.com/Gt2eZbtVTYYCGprCpOCffd'; 
+//const grupch2 = 'https://chat.whatsapp.com/CPSpIhaGhNt0qSSveGmyjJ'; 
 const
 {
    WAConnection,
